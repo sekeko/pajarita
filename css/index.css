@@ -47,12 +47,12 @@
 #u1222-4
 {
 	z-index: 506;
-	width: 156px;
+	/*width: 156px;*/
 	min-height: 43px;
 	text-align: left;
 	color: #E21E79;
 	letter-spacing: 1px;
-	font-size: 30px;
+	font-size: 35px;
 	font-family: cabin-condensed, sans-serif;
 	font-weight: 700;
 	position: fixed;
@@ -348,14 +348,14 @@
 	padding-bottom: 305px;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../images/1160x559.gif") no-repeat left top;
+	background: #FFFFFF url("../images/fondo_inicio.png") no-repeat left top;
 	background-size: cover !important;
 }
 
 #u763-4
 {
 	z-index: 323;
-	width: 604px;
+	/*width: 604px;*/
 	min-height: 75px;
 	text-align: center;
 	color: #FFFFFF;
@@ -4069,4 +4069,3 @@ html,#widgetu783.non-empty-st #u786-4
 {
 	clear: both;
 }
-
