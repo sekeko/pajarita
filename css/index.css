@@ -374,7 +374,7 @@
 	width: 1160px;
 	min-height: 126px;
 	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.26);
+	background-color: rgba(255, 255, 255, 0.7);
 	text-align: center;
 	color: #E21E79;
 	font-size: 72px;
@@ -807,7 +807,7 @@
 	position: relative;
 	left: -100px;
 	margin-top: 42px;
-	background: #E21E79 url("../images/1160x559.gif") repeat left top;
+	background: #E21E79 url("../images/fondo_inicio.png") repeat left top;
 	background-size: 1160px 559px;
 }
 
@@ -2274,7 +2274,7 @@
 	position: relative;
 	left: -100px;
 	margin-top: 42px;
-	background: #E21E79 url("../images/1160x559.gif") repeat center center;
+	background: #E21E79 url("../images/fondo_inicio.png") repeat center center;
 	background-size: 1160px 559px;
 }
 
@@ -2329,13 +2329,13 @@
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
-	background: #E21E79 url("../images/cloud%20copy.png") no-repeat center center;
+	background: #E21E79 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #u556:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: #29ABE2 url("../images/cloud%20copy.png") no-repeat center center;
+	background: #29ABE2 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #pu557-4
@@ -2448,13 +2448,13 @@
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
-	background: #E21E79 url("../images/phone%20copy.png") no-repeat center center;
+	background: #E21E79 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #u562:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: #29ABE2 url("../images/phone%20copy.png") no-repeat center center;
+	background: #29ABE2 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #u563-4
@@ -2495,13 +2495,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 468px;
-	background: #E21E79 url("../images/settings%20copy.png") no-repeat center center;
+	background: #E21E79 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #u565:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: #29ABE2 url("../images/settings%20copy.png") no-repeat center center;
+	background: #29ABE2 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #u566-4
@@ -2549,13 +2549,13 @@
 	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
-	background: #E21E79 url("../images/t-shirt%20copy.png") no-repeat center center;
+	background: #E21E79 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #u568:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: #29ABE2 url("../images/t-shirt%20copy.png") no-repeat center center;
+	background: #29ABE2 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #pu563-4,#pu569-4
@@ -2605,13 +2605,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 468px;
-	background: #E21E79 url("../images/vynil%20copy.png") no-repeat center center;
+	background: #E21E79 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #u571:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: #29ABE2 url("../images/vynil%20copy.png") no-repeat center center;
+	background: #29ABE2 url("../images/camera%20copy.png") no-repeat center center;
 }
 
 #pu566-4,#pu572-4
@@ -2664,7 +2664,7 @@
 	position: relative;
 	left: -100px;
 	margin-top: 42px;
-	background: #E21E79 url("../images/1160x559.gif") repeat left top;
+	background: #E21E79 url("../images/fondo_inicio.png") repeat left top;
 	background-size: 1160px 559px;
 }
 
@@ -2724,7 +2724,7 @@
 	margin-right: -10000px;
 	margin-top: -5px;
 	left: -5px;
-	background: #E21E79 url("../images/150x150.gif") no-repeat center center;
+	background: #E21E79 url("../images/hil.png") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -2745,7 +2745,7 @@
 	margin-right: -10000px;
 	margin-top: -5px;
 	left: 307px;
-	background: #E21E79 url("../images/150x150.gif") no-repeat center center;
+	background: #E21E79 url("../images/nat.png") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -2766,7 +2766,7 @@
 	margin-right: -10000px;
 	margin-top: -5px;
 	left: 619px;
-	background: #E21E79 url("../images/150x150.gif") no-repeat center center;
+	background: #E21E79 url("../images/fercho.png") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -3125,7 +3125,7 @@
 {
 	z-index: 394;
 	width: 448px;
-	min-height: 75px;
+	/*min-height: 75px;*/
 	color: #FFFFFF;
 	left: 590px;
 	margin-top: 14px;
