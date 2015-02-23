@@ -808,7 +808,7 @@
 	left: -100px;
 	margin-top: 42px;
 	background: #E21E79 url("../images/fondo_inicio.png") repeat left top;
-	background-size: 1160px 559px;
+	background-size: cover !important;
 }
 
 #u141-4
@@ -2274,8 +2274,8 @@
 	position: relative;
 	left: -100px;
 	margin-top: 42px;
-	background: #E21E79 url("../images/fondo_inicio.png") repeat center center;
-	background-size: 1160px 559px;
+	background: #E21E79 url("../images/fondo_servicios.png") repeat center center;
+	background-size: cover !important;
 }
 
 #u547-4
@@ -2664,8 +2664,8 @@
 	position: relative;
 	left: -100px;
 	margin-top: 42px;
-	background: #E21E79 url("../images/fondo_inicio.png") repeat left top;
-	background-size: 1160px 559px;
+	background: #E21E79 url("../images/fondo_equipo.png") repeat left top;
+	background-size: cover !important;
 }
 
 #u611-4
@@ -3741,7 +3741,7 @@ html,#widgetu783.non-empty-st #u786-4
 	border-color: #000000;
 	background-color: #1C1C1C;
 	background-color: rgba(0, 0, 0, 0.89);
-	padding-bottom: 167px;
+	/*padding-bottom: 167px;*/
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0, 0, 0, 0.89);
@@ -3874,7 +3874,7 @@ html,#widgetu783.non-empty-st #u786-4
 	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 330px;
+	/*margin-top: 330px;*/
 	-pie-background: rgba(0, 0, 0, 0.54);
 }
 
